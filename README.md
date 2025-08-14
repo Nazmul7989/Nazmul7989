@@ -44,12 +44,11 @@ I love turning ideas into digital solutions with clean code and a focus on user 
 ---
 
 ## 📊 GitHub Stats
-![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Nazmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazmul7989&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul7989&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=Firefox-Browser)](https://YOUR_PORTFOLIO_LINK)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:nazmul.ns7989@gmail.com)
