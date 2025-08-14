@@ -11,19 +11,17 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=Nazmul7989&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Nazmul7989&theme=one_dark_pro&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul7989&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
 </div>
 
 
 <!-- Snake Animation -->
-<!-- <div align="center">
-  ![snake gif](https://github.com/Nazmul7989/blob/output/github-snake-dark.svg)
+<div align="center">
+  ![](https://raw.githubusercontent.com/Nazmul7989/Nazmul7989/gh-pages/snake.svg)
 </div>
--->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nazmul7989&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
