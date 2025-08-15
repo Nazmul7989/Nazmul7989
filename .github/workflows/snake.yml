@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # runs daily at 00:00 UTC
   workflow_dispatch:       # allows manual run
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,13 +20,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Nazmul7989
-          # You can output multiple formats
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
             dist/snake.gif
 
-      # Publish to the 'gh-pages' branch (recommended)
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
