@@ -25,17 +25,13 @@ My work approach is simple: Clean Code + Modern UI/UX + Performance Optimization
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul7989&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=Nazmul7989&theme=one_dark_pro&hide_border=false)
 
-
-<!-- Snake Animation -->
-<!--
-<div align="center">
-  ![](https://raw.githubusercontent.com/Nazmul7989/Nazmul7989/gh-pages/snake.svg)
-</div>
--->
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nazmul7989&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+
+
+<!-- Snake Animation -->
+![](https://raw.githubusercontent.com/Nazmul7989/Nazmul7989/gh-pages/snake-dark.svg)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nazmul7989&limit=5&theme=dark&combine_all_yearly_contributions=true)
