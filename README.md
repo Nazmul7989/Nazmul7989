@@ -1,6 +1,6 @@
 # 💫 About Me
 ### 👋 Hi, I'm Md Nazmul Hasan<br>
-<br>🚀 I am a highly skilled and results-driven Full-Stack Web Developer with a proven track record of building dynamic, scalable, and user-focused web applications. With hands-on expertise in PHP, Laravel, Livewire, Filament, JavaScript, jQuery, Vue.js, Nuxt.js, React.js, Next.js, Tailwind CSS, Bootstrap, CSS, SCSS, and HTML, I create solutions that blend modern design with powerful backend functionality.
+<br>🚀 I am a highly skilled and results-driven Full-Stack Web Developer with a proven track record of building dynamic, scalable, and user-focused web applications. With hands-on expertise in PHP, Laravel, Livewire, Filament, JavaScript, jQuery, Vue.js, Nuxt.js, React.js, Next.js, Inertia Js, Tailwind CSS, Bootstrap, CSS, SCSS, and HTML, I create solutions that blend modern design with powerful backend functionality.
 
 I specialize in:
 
